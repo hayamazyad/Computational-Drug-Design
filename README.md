@@ -32,7 +32,7 @@ The tool supports the following file types:
     - Displays an interactive molecular graph using Plotly
 3. Use Previous and Next buttons to browse molecules.
 4. Tooltips show atom info: element, index, and 3D coordinates.
-5. Optionally, export graphs as PNG images.
+5. Optionally, export graphs as PNG images and the indices as .txt files.
 
 ---
 # Project Structure
