@@ -1,0 +1,6 @@
+Molecule: ATORVASTATIN
+Exported: 2025-07-10 20:58:17
+
+📊 Edge Density: 0.05
+📏 Wiener Index: 5382
+⚖️ Petitjean Index: 1.00

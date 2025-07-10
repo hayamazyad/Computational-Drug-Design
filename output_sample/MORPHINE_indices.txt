@@ -1,0 +1,6 @@
+Molecule: MORPHINE
+Exported: 2025-07-10 20:59:06
+
+📊 Edge Density: 0.12
+📏 Wiener Index: 712
+⚖️ Petitjean Index: 1.00

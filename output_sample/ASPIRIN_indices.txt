@@ -1,0 +1,6 @@
+Molecule: ASPIRIN
+Exported: 2025-07-10 20:58:35
+
+📊 Edge Density: 0.17
+📏 Wiener Index: 246
+⚖️ Petitjean Index: 1.00
