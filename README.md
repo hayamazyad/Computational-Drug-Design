@@ -3,6 +3,8 @@ This interactive Jupyter Notebook allows users to visualize molecular structures
 
 <div align="right" style="font-size:16px; color:black; font-family:Segoe UI, sans-serif;">
 Developed by Haya Mazyad & Lynn Oueidat
+    
+As part of the *Computational Drug Design* course, April 2025
 </div>
 
 ---
@@ -40,3 +42,12 @@ This project contains:
   - MoleculeVisualizer.ipynb → Main Jupyter Notebook with all code and interactive widgets.
   - molecules/ → Folder that contains sample input .mol and .sdf files and folders for testing.
   - output_sample/ → Folder that contains samples of the exported PNGs & .txt files.
+
+---
+# Tools & Libraries Used
+- **NetworkX** – for molecular graph construction and index computation
+- **Plotly** – for interactive visualization of molecular structures
+- **ipywidgets** – for creating interactive controls (navigation buttons, dropdowns, etc.)
+- **ipyfilechooser** – for selecting input files within the notebook
+- **NumPy** – for basic numerical calculations
+- Built-in modules: os, glob, re, math, io
