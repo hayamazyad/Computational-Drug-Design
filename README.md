@@ -1,7 +1,9 @@
 # Molecule Visualizer with Topological Indices
 This interactive Jupyter Notebook allows users to visualize molecular structures from .mol and .sdf files and compute graph-based topological indices. It’s designed to support basic cheminformatics tasks and educational exploration of molecular graph theory.
 
-Developed by Haya Mazyad & Lynn Queidat
+<div align="right" style="font-size:16px; color:black; font-family:Segoe UI, sans-serif;">
+Developed by Haya Mazyad & Lynn Oueidat
+</div>
 
 ---
 # Overview
