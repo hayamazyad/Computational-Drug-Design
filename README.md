@@ -39,4 +39,4 @@ The tool supports the following file types:
 This project contains:
   - MoleculeVisualizer.ipynb → Main Jupyter Notebook with all code and interactive widgets.
   - molecules/ → Folder that contains sample input .mol and .sdf files and folders for testing.
-  - output_images/ → Folder that contains samples of the exported PNGs.
+  - output_sample/ → Folder that contains samples of the exported PNGs & .txt files.
